@@ -30,25 +30,25 @@ password:1234
 
 #### Welcome Screen
 
-![Welcome Page]("./screenshots/welcome.png")
+![Welcome Page](screenshots/welcome.png)
 
 #### Registration Screen
-![Registration]("./screenshots/Register.png")
+![Registration](screenshots/Register.png)
 
 ##### Login Screen
-![Login]("screenshots/Log-wel.png")
+![Login](screenshots/Log-wel.png)
 
 #### User Login Screen
-![User Login]("screenshots/userLog.png")
+![User Login](screenshots/userLog.png)
 
 ##### User Registration Screen
-![User Registration]("screenshots/userReg.png")
+![User Registration](screenshots/userReg.png)
 
 #### Vendor Login Screen
-![Vendor Login]("screenshots/vendorLog.png")
+![Vendor Login](screenshots/vendorLog.png)
 
 #### Vendor Registration Screen
-![Vendor Registration]("screenshots/vendorRegistration.png")
+![Vendor Registration](screenshots/vendorRegistration.png)
 
 #### Product Screen
-![Product List]("screenshots/Product.png")
+![Product List](screenshots/Product.png)
