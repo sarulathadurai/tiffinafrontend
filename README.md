@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+### Tiffina-Assignment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can clone the [Backend](https://github.com/sarulathadurai/tiffina-backend) here.
 
-## Available Scripts
+### Workflow
 
-In the project directory, you can run:
+##### Backend
 
-### `npm start`
+**STACK : Node,mongoDB,expresJS**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Separate database has been created for user and vendor were the details are stored and secured usind mongoDB and expressJS.Created api endpoints to fetch and post data.Tried and tested using postman.The product database has been created where we can get the list of all products.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+#### Frontend
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**STACK : React,bootstrap**
 
-### `npm run build`
+A welcoming screen which has links that direct to register and login pages.Each page has two links for user and vendor register and login pages.After loging in both vendor and user are directed to product page where the products are listed.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### user login credentials:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+username: admin@123
+password:1234
 
-### `npm run eject`
+#### vendor login credentials
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+mobile:9999999999 (tem 9's)
+password:1234
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### Welcome Screen
+![Welcome Page]("src/screenshots/welcome.png")
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### Registration Screen
+![Registration]("src/screenshots/Register.png")
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+##### Login Screen
+![Login]("src/screenshots/Log-wel.png")
 
-## Learn More
+#### User Login Screen
+![User Login]("src/screenshots/userLog.png")
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+##### User Registration Screen
+![User Registration]("src/screenshots/userReg.png")
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### Vendor Login Screen
+![Vendor Login]("src/screenshots/vendorLog.png")
 
-### Code Splitting
+#### Vendor Registration Screen
+![Vendor Registration]("src/screenshots/vendorRegistration.png")
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### Product Screen
+![Product List]("src/screenshots/Product.png")
