@@ -29,7 +29,7 @@ mobile:9999999999 (tem 9's)
 password:1234
 
 #### Welcome Screen
-![Welcome Page]("tiffinafrontend/src/screenshots/welcome.png")
+![Welcome Page]("https://github.com/sarulathadurai/tiffinafrontend/blob/main/src/screenshots/welcome.png")
 
 #### Registration Screen
 ![Registration]("src/screenshots/Register.png")
