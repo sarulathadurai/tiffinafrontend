@@ -29,7 +29,7 @@ mobile:9999999999 (tem 9's)
 password:1234
 
 #### Welcome Screen
-![Welcome Page]("src/screenshots/welcome.png")
+![Welcome Page]("welcome.png")
 
 #### Registration Screen
 ![Registration]("src/screenshots/Register.png")
