@@ -29,25 +29,29 @@ mobile:9999999999 (tem 9's)
 password:1234
 
 #### Welcome Screen
-![Welcome Page]("welcome.png")
+<<<<<<< HEAD
+![Welcome Page]("screenshots/welcome.png")
+=======
+![Welcome Page]("/src/screenshots/welcome.png")
+>>>>>>> fc8182f9a55c1d1da88ca72c05e8c330c1929b61
 
 #### Registration Screen
-![Registration]("src/screenshots/Register.png")
+![Registration]("screenshots/Register.png")
 
 ##### Login Screen
-![Login]("src/screenshots/Log-wel.png")
+![Login]("screenshots/Log-wel.png")
 
 #### User Login Screen
-![User Login]("src/screenshots/userLog.png")
+![User Login]("screenshots/userLog.png")
 
 ##### User Registration Screen
-![User Registration]("src/screenshots/userReg.png")
+![User Registration]("screenshots/userReg.png")
 
 #### Vendor Login Screen
-![Vendor Login]("src/screenshots/vendorLog.png")
+![Vendor Login]("screenshots/vendorLog.png")
 
 #### Vendor Registration Screen
-![Vendor Registration]("src/screenshots/vendorRegistration.png")
+![Vendor Registration]("screenshots/vendorRegistration.png")
 
 #### Product Screen
-![Product List]("src/screenshots/Product.png")
+![Product List]("screenshots/Product.png")
