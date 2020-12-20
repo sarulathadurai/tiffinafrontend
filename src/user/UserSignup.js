@@ -53,7 +53,7 @@ const UserSignup = ({history}) => {
                  <div className="alert alert-success center"
                  style={{display:success ?"": "none" }}>
                      UserCreated 
-                     {history.push("/Login")}
+                     {success && history.push("/user/Login")}
                  </div>
                </div>
          </div>
